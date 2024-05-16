@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Apps\\test\\ms\\SFMLLearn\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A00D1232-CE8C-4CD5-AB9A-FC49CA4FACE7}|SFMLLearn\\SFMLLearn.vcxproj|C:\\Apps\\test\\ms\\SFMLLearn\\SFMLLearn\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A00D1232-CE8C-4CD5-AB9A-FC49CA4FACE7}|SFMLLearn\\SFMLLearn.vcxproj|solutionrelative:SFMLLearn\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Apps\\test\\ms\\SFMLLearn\\SFMLLearn\\main.cpp",
+              "RelativeDocumentMoniker": "SFMLLearn\\main.cpp",
+              "ToolTip": "C:\\Apps\\test\\ms\\SFMLLearn\\SFMLLearn\\main.cpp",
+              "RelativeToolTip": "SFMLLearn\\main.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-16T21:17:37.827Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
