@@ -30,3 +30,11 @@
 *.exe
 *.out
 *.app
+
+#Others
+*.vsidx
+*.VC.db
+*.VC.db-shm
+*.VC.db-wal
+*.VC.opendb
+.vs\SFMLLearn\V17\Browse.VC.db
