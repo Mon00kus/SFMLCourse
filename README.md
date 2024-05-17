@@ -1,2 +1,2 @@
 # SFMLCourse
-C++ Game development
+C++ Game development, using Visual Studio 2022
